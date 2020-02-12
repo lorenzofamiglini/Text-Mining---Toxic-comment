@@ -3,6 +3,9 @@ Several models were developed in order to solve the text classification task on 
 
 
 Report: Text_Mining_report.pdf
+
 Preprocessing: Text Mining.ipynb
+
 Model development: Text_mining_DNN.ipynb
+
 Optimization models: Ottimizzazione_text_mining.ipynb
